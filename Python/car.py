@@ -1,5 +1,5 @@
 class Car:
     id = int
     license = str
-    driveString = str
+    driver = str
     passenger = int
